@@ -1,0 +1,170 @@
+main{
+    background-color: orange;
+}
+
+.leftaside{
+    background-color: blue;
+}
+
+.rightaside{
+    background-color: green;
+}
+
+.title{
+    text-align: center;
+}
+
+.article{
+    text-align: center;
+}
+
+
+.btn-warning{
+    background-color: red;
+    border: 4px groove orange;
+    font-style: oblique;
+}
+
+.btn-success{
+    padding: 10px 10px 10px 10px;
+}
+
+.navbar{
+    border-radius: 0;
+    border: 0;
+    text-align: right;
+}
+
+
+
+.navbar-inverse{
+    background-color: black;
+    border: 4px groove gold;
+}
+
+.myBtn{
+    background-color: black;
+    font-style: italic;
+    border: 4px groove gold;
+    padding: 10px
+}
+
+.mgallery{
+    text-align: center;
+    max-height: 100%;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+    padding: 2px 2px 2px 2px;
+}
+.container-fluid{
+
+}
+
+.footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: black;
+    text-align: center;
+    max-height: 250px;
+    margin-top: 10px;
+}
+
+.footer_parak_mazs{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: black;
+    text-align: center;
+    max-height: 250px;
+    margin-top: 10px;
+}
+
+.videogalerija{
+    text-align: center;
+    max-height: 100%;
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+    padding: 2px 2px 2px 2px;
+}
+
+.mapbox{
+    text-align: center;
+    max-height: 100%;
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    border: 2px groove gold;
+    padding: 10px 10px 5px 10px;
+}
+.reklama{
+    text-align: center;
+    max-height: 100%;
+    max-width: 100%;
+    background-color: black;
+    border: 4px groove gold;
+    padding: 10px 10px 10px 10px;
+}
+
+.footerimgbox{
+    text-align: center;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+hr.new1{
+    border: 2px groove #ffccff;
+    border-radius: 10px;
+}
+
+.table-dark{
+    color: rebeccapurple;
+    border: 4px groove gold;
+    text-align: center;
+}
+
+hr.new2{
+    border: 1px dashed black;
+    border-radius: 10px;
+}
+
+.figure{
+    max-height: 500px;
+    max-width: 200px;
+}
+
+.row div:nth-child(4){
+    min-height: 100%;
+}
+
+html, body{
+    height: 100%;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
